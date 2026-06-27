@@ -10,7 +10,6 @@
   <a href="https://linkedin.com/in/eemanasghar"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=flat-square"/></a>
   <a href="https://pypi.org/project/auditml"><img src="https://img.shields.io/badge/PyPI-auditml-3775A9?logo=pypi&logoColor=white&style=flat-square"/></a>
   <a href="mailto:eemanasghar2@gmail.com"><img src="https://img.shields.io/badge/Email-eemanasghar2@gmail.com-EA4335?logo=gmail&logoColor=white&style=flat-square"/></a>
-  <img src="https://img.shields.io/badge/Open%20to-Research%20Fellowships%20%2F%20AI%20Roles-30d158?style=flat-square"/>
 </p>
 
 ---
