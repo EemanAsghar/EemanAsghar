@@ -45,9 +45,6 @@ Behavioral validation &amp; regression detection for AI agents, running natively
 Turns a production bug into a dollar figure in seconds — federates **Sentry + Stripe + GitHub** with one **Coral SQL** query and **Claude** to find the bug, the commit that caused it, and the revenue lost. 45 min of manual work → 9 seconds.
 `Next.js` · `TypeScript` · `Coral SQL` · `Claude`
 
-**⚙️ [Onboardflow](https://github.com/EemanAsghar/Onboardflow)**
-AI-powered employee-onboarding automation built on **IBM watsonx Orchestrate**.
-`watsonx` · `Automation`
 
 ---
 
@@ -89,7 +86,3 @@ AI-powered employee-onboarding automation built on **IBM watsonx Orchestrate**.
 
 ---
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=EemanAsghar&show_icons=true&hide_border=true&theme=tokyonight" height="155"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EemanAsghar&layout=compact&hide_border=true&theme=tokyonight" height="155"/>
-</p>
